@@ -1,5 +1,5 @@
 /*
- * In this file, I give an malloc package using imp approach. 
+ * In this file, I give a malloc package using imp approach. 
  * Each block contains a header and a footer, which consists of 
  * the block's total size and an alloc_bit. 
  */
