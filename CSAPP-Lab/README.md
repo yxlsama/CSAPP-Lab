@@ -1,2 +1,0 @@
-# CSAPP-Lab
-CSAPP Labs
