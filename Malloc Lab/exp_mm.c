@@ -1,5 +1,5 @@
 /*
- * In this file, I give an malloc package using exp approach. 
+ * In this file, I give a malloc package using exp approach. 
  * Each allocated block contains a header and a footer, which consists of 
  * the block's total size and an alloc_bit. 
  * Each free block contains a header and a footer as the same. In addition,
